@@ -1,4 +1,4 @@
-< h1 align = "center"> Pig Latin </h1>
+< h1 align = "center" > Pig Latin </h1>
 
 
 pig.c this program basically coverts an English text to latin pig
